@@ -24,21 +24,11 @@ Commodities - Rice,Cargill,https://www.cargill.com/
 Commodities - Rice,Archer Daniels Midland,https://www.adm.com/
 Commodities - Rice,Ebro Foods,https://www.ebrofoods.es/en/
 Commodities - Rice,Louis Dreyfus Company,https://www.ldc.com/
-Jewellery Stores,Tiffany & Co.,https://www.tiffany.com/
 Jewellery Stores,Cartier,https://www.cartier.com/
 Jewellery Stores,Bulgari,https://www.bulgari.com/
 Jewellery Stores,Harry Winston,https://www.harrywinston.com/it
 Jewellery Stores,Van Cleef & Arpels,https://www.vancleefarpels.com/en/home.html
-Oil Producers,ExxonMobil,https://corporate.exxonmobil.com/
-Oil Producers,Chevron,https://www.chevron.com/
-Oil Producers,ConocoPhillips,https://www.conocophillips.com/
-Oil Producers,BP,https://www.bp.com/
-Oil Producers,Royal Dutch Shell,https://royaldutchshellplc.com/
 Diamond brands,De Beers,https://www.debeersgroup.com/
-Diamond brands,Rio Tinto,https://www.riotinto.com/
-Diamond brands,BHP,https://www.bhp.com/
-Diamond brands,Petra Diamonds,https://www.petradiamonds.com/
-Diamond brands,Tiffany & Co.,https://www.tiffany.com/
 Automotive brands,Toyota,https://www.toyota.com/
 Automotive brands,Volkswagen,https://www.vw.com/en.html
 Automotive brands,General Motors,https://www.gm.com/
@@ -47,4 +37,283 @@ Automotive brands,Hyundai,https://...
 Fashion Brands,Nike,https://www.nike.com/
 Fashion Brands,Adidas,https://www.adidas.com/us
 Fashion Brands,Puma,https://us.puma.com/
-Fashion Brands,Under Armour,[URL under armour ON underarmour.
+NFT Projects,Azuki,https://www.azuki.co/
+NFT Projects,Cool Cats,https://coolcats.com/
+NFT Projects,Mutant Ape Yacht Club,https://opensea.io/collection/mutant-ape-yacht-club
+NFT Projects,CyberKongz,https://www.cyberkongz.com/
+NFT Projects,CloneX,https://opensea.io/collection/clonex
+NFT Projects,Pudgy Penguins,https://opensea.io/collection/pudgypenguins
+NFT Projects,World of Women,https://www.worldofwomen.art/
+NFT Projects,CryptoKitties,https://www.cryptokitties.co/about
+NFT Projects,Axie Infinity,https://axieinfinity.com/
+Crypto Projects,Cardano,https://cardano.org/
+Crypto Projects,Polkadot,https://polkadot.js.org/apps/
+Crypto Projects,Dogecoin,https://dogecoin.com/
+Crypto Projects,Shiba Inu,https://crypto.com/price/shiba-inu
+Crypto Projects,Uniswap,https://app.uniswap.org/swap
+Crypto Projects,Litecoin,https://litecoin.org/
+Crypto Projects,Ripple,https://ripple.com/
+Crypto Projects,Solana,https://solana.com/
+Crypto Projects,Avalanche,https://avalanche.org/
+Crypto Projects,Algorand,https://algorandtechnologies.com/
+Crypto Projects,Cosmos,https://cosmos.network/
+Crypto Projects,Stellar,https://stellar.org/learn/lumens
+Crypto Projects,Filecoin,https://fil.org/
+Crypto Projects,Helium,https://www.helium.com/
+Crypto Projects,Theta,https://thetatoken.org/
+Crypto Projects,NEAR Protocol,https://near.org/
+Crypto Projects,Elrond,https://www.trustpilot.com/review/www.elrond.com
+Crypto Projects,Zcash,https://z.cash/
+Crypto Projects,Monero,https://www.getmonero.org/
+Crypto Projects,Dash,https://help.doordash.com/dashers/s/article/How-to-use-the-Dash-Now-home-page
+Crypto Projects,Bitcoin SV,https://bitcoinsv.com/
+Crypto Projects,Bitcoin Cash,https://bitcoincash.org/
+Crypto Projects,EOS,https://www.kraken.com/learn/what-is-eosio
+Crypto Projects,TRON,https://tron.network/
+Crypto Projects,NEO,https://neo.readthedocs.io/en/stable/io.html
+Crypto Projects,VeChain,https://www.vechain.org/
+Crypto Projects,IOTA,https://www.iota.org/
+Crypto Projects,NEM,https://nems.org/
+Crypto Projects,Nano,https://nano.org/en
+Crypto Projects,Bytecoin,https://bytecoin.org/
+Crypto Projects,Verge,https://vergecurrency.com/
+Crypto Projects,Decred,https://decred.org/
+Crypto Projects,Siacoin,https://sia.tech/
+Crypto Projects,MakerDAO,https://docs.makerdao.com/
+Crypto Projects,Synthetix,https://synthetix.io/
+Crypto Projects,Compound,https://compound.finance/
+Crypto Projects,Aave,https://aave.com/
+Crypto Projects,SushiSwap,https://app.sushi.com/en/swap
+Crypto Projects,Yearn Finance,https://yearn.fi/
+Crypto Projects,Curve Finance,https://curve.fi/
+Crypto Projects,Lido Finance,https://www.stakingrewards.com/provider/lido-finance
+Fashion Brands,Under Armour,https://www.underarmour.com/
+Fashion Brands,Zara,https://www.zara.com/
+Consumer Electronics,Apple,https://www.apple.com
+NFT Projects,OpenSea,https://opensea.io/
+NFT Projects,Rarible,https://rarible.com/
+NFT Projects,Foundation,https://opensea.io/collection/fnd
+NFT Projects,SuperRare,https://superrare.com/
+NFT Projects,Nifty Gateway,https://www.niftygateway.com/
+NFT Projects,Enjin,https://enjin.io/blog
+NFT Projects,Decentraland,https://decentraland.org/
+NFT Projects,The Sandbox,https://www.sandbox.game/en/
+Crypto Projects,Bitcoin (BTC),https://bitcoin.org/
+Crypto Projects,Ethereum (ETH),https://ethereum.org/en/foundation/
+Crypto Projects,Tether (USDT),https://tether.to/
+Crypto Projects,Binance Coin (BNB),https://www.binance.com/en
+Crypto Projects,USD Coin (USDC),https://www.circle.com/en/usdc
+Crypto Projects,Cardano (ADA),https://cardahub.io/
+Crypto Projects,Solana (SOL),https://solana.org/
+Crypto Projects,Polkadot (DOT),https://polkadot.js.org/
+Crypto Projects,Dogecoin (DOGE),https://dogecoin.com/
+Crypto Projects,Shiba Inu (SHIB),https://www.shibatoken.com/
+Oil Producers,Saudi Aramco,https://www.aramco.com/
+Automotive brands,Tata,https://en.wikipedia.org/wiki/Tata_Group
+Automotive brands,Mahindra & Mahindra,https://www.mahindra.com/
+Automotive brands,Ashok Leyland,https://www.ashokleyland.com/
+Automotive brands,Maruti Suzuki,https://www.marutisuzuki.com/
+Automotive brands,Honda,https://www.honda.com/
+Fashion Brands,Louis Vuitton,https://www.louisvuitton.com/
+Fashion Brands,Gucci,https://www.gucci.com/us/en/
+Fashion Brands,Prada,https://www.prada.com/
+Fashion Brands,Chanel,https://www.chanel.com/us/
+Fashion Brands,Herm�s,https://www.hermes.com/
+Consumer Electronics,Samsung,https://www.samsung.com/us/
+Consumer Electronics,Sony,https://www.sony.com/
+Consumer Electronics,Microsoft,https://www.microsoft.com/
+Consumer Electronics,Google,https://www.google.com.mx/
+Consumer Electronics,Amazon,https://www.amazon.com/
+Airline Brands,Air India,https://www.airindia.com/
+Airline Brands,SpiceJet,https://www.spicejet.com/
+Airline Brands,IndiGo,https://www.goindigo.in/
+Airline Brands,Jet Airways,https://www.jetairways.com/
+Airline Brands,Vistara,https://www.airvistara.com/in/en
+Consumer Electronics,LG Electronics,https://www.lg.com/
+Consumer Electronics,Panasonic,https://www.panasonic.com/
+Consumer Electronics,Lenovo,https://www.lenovo.com/
+Consumer Electronics,HP,https://www.hp.com/
+Consumer Electronics,Dell,https://www.dell.com/
+Consumer Electronics,Asus,https://www.asus.com/
+Consumer Electronics,Acer,https://www.acer.com/
+Consumer Electronics,Toshiba,https://www.toshiba.com/
+Consumer Electronics,Canon,https://www.canon.com/
+Consumer Electronics,Nikon,https://www.nikon.com/
+Consumer Electronics,GoPro,https://www.gopro.com/
+Consumer Electronics,Fitbit,https://www.fitbit.com/
+Consumer Electronics,Garmin,https://www.garmin.com/
+Consumer Electronics,Sonos,https://www.sonos.com/
+Consumer Electronics,Bose,https://www.bose.com/
+Consumer Electronics,JBL,https://www.jbl.com/
+Consumer Electronics,Harman Kardon,https://www.harmankardon.com/
+Consumer Electronics,Sennheiser,https://www.sennheiser.com/
+Consumer Electronics,Beats by Dre,https://www.beatsbydre.com/
+Consumer Electronics,Marshall,https://www.marshallheadphones.com/
+Consumer Electronics,Pioneer,https://www.pioneerelectronics.com/
+Consumer Electronics,Bang & Olufsen,https://www.bang-olufsen.com/
+Consumer Electronics,Yamaha,https://www.yamaha.com/
+Consumer Electronics,Intel,https://www.intel.com/
+Consumer Electronics,AMD,https://www.amd.com/
+Consumer Electronics,NVIDIA,https://www.nvidia.com/
+Consumer Electronics,Qualcomm,https://www.qualcomm.com/
+Consumer Electronics,MediaTek,https://www.mediatek.com/
+Consumer Electronics,Western Digital,https://www.westerndigital.com/
+Consumer Electronics,Seagate,https://www.seagate.com/
+Consumer Electronics,SanDisk,https://www.sandisk.com/
+Consumer Electronics,Kingston Technology,https://www.kingston.com/
+Consumer Electronics,Logitech,https://www.logitech.com/
+Consumer Electronics,Razer,https://www.razer.com/
+Consumer Electronics,SteelSeries,https://steelseries.com/
+Consumer Electronics,Corsair,https://www.corsair.com/
+Consumer Electronics,Epson,https://www.epson.com/
+Consumer Electronics,Brother,https://www.brother.com/
+Consumer Electronics,Xerox,https://www.xerox.com/
+Consumer Electronics,Ricoh,https://www.ricoh.com/
+Consumer Electronics,Sharp,https://www.sharpusa.com/
+Consumer Electronics,ViewSonic,https://www.viewsonic.com/
+Consumer Electronics,BenQ,https://www.benq.com/
+Consumer Electronics,Samsung Electronics,https://www.samsung.com/
+Consumer Electronics,TCL Electronics,https://electronics.tcl.com/
+Consumer Electronics,Hisense,https://www.hisense.com/
+Consumer Electronics,Philips,https://www.philips.com/
+Consumer Electronics,Vizio,https://www.vizio.com/
+Consumer Electronics,Xiaomi,https://www.mi.com/
+Consumer Electronics,OnePlus,https://www.oneplus.com/
+Consumer Electronics,Oppo,https://www.oppo.com/
+Consumer Electronics,Vivo,https://www.vivo.com/
+Consumer Electronics,Realme,https://www.realme.com/
+Consumer Electronics,Motorola,https://www.motorola.com/
+Consumer Electronics,Nokia,https://www.nokia.com/
+Consumer Electronics,Blackberry,https://www.blackberry.com/
+Consumer Electronics,Roku,https://www.roku.com/
+Consumer Electronics,Soniq,https://www.soniq.com/
+Consumer Electronics,Haier,https://www.haier.com/
+Consumer Electronics,Electrolux,https://www.electrolux.com/
+Consumer Electronics,Dyson,https://www.dyson.com/
+Consumer Electronics,iRobot,https://www.irobot.com/
+Consumer Electronics,KitchenAid,https://www.kitchenaid.com/
+Consumer Electronics,Whirlpool,https://www.whirlpool.com/
+Consumer Electronics,GE Appliances,https://www.geappliances.com/
+Consumer Electronics,Bosch,https://www.bosch-home.com/
+Consumer Electronics,Siemens,https://www.siemens-home.bsh-group.com/
+Consumer Electronics,LG Home Appliances,https://www.lg.com/
+Consumer Electronics,Samsung Home Appliances,https://www.samsung.com/
+Consumer Electronics,SharkNinja,https://www.sharkninja.com/
+Consumer Electronics,Keurig,https://www.keurig.com/
+Consumer Electronics,Nespresso,https://www.nespresso.com/
+Consumer Electronics,Vitamix,https://www.vitamix.com/
+Consumer Electronics,Cuisinart,https://www.cuisinart.com/
+NFT Projects,Board Ape Kennel Club,https://www.boardapekennelclub.com/
+NFT Projects,Rumble Kong League,https://www.rumblekongleague.com/
+NFT Projects,Loot (For Adventurers),https://www.lootproject.com/
+NFT Projects,BAYC Metaverse,https://www.baycmetaverse.com/
+NFT Projects,Gutter Cat Gang,https://guttercatgang.com/
+NFT Projects,The Sevens,https://www.thesevens.io/
+NFT Projects,PUNKS Comic,https://www.punkscomic.com/
+NFT Projects,Bored Ape Chemistry Club,https://www.boredapechemistry.club/
+NFT Projects,Creature World,https://creatureworld.io/
+NFT Projects,Bored Ape Kennel Club,https://www.boardapekennelclub.com/
+NFT Projects,Gutter Rats,https://gutterrats.io/
+Crypto Projects,Ripple (XRP),https://ripple.com/
+Crypto Projects,Litecoin (LTC),https://litecoin.org/
+Crypto Projects,Chainlink (LINK),https://chain.link/
+Crypto Projects,Stellar (XLM),https://www.stellar.org/
+Crypto Projects,Tron (TRX),https://tron.network/
+Crypto Projects,VeChain (VET),https://www.vechain.org/
+Crypto Projects,Cosmos (ATOM),https://cosmos.network/
+Crypto Projects,EOS (EOS),https://eos.io/
+Crypto Projects,Bitcoin Cash (BCH),https://www.bitcoincash.org/
+Crypto Projects,Monero (XMR),https://www.getmonero.org/
+Crypto Projects,NEM (XEM),https://nem.io/
+Crypto Projects,NEO (NEO),https://neo.org/
+Crypto Projects,IOTA (MIOTA),https://www.iota.org/
+Crypto Projects,Aave (AAVE),https://aave.com/
+Crypto Projects,Synthetix (SNX),https://www.synthetix.io/
+Crypto Projects,Compound (COMP),https://compound.finance/
+Crypto Projects,Maker (MKR),https://makerdao.com/
+Crypto Projects,Uniswap (UNI),https://uniswap.org/
+Crypto Projects,SushiSwap (SUSHI),https://sushi.com/
+Crypto Projects,Yearn.finance (YFI),https://yearn.finance/
+Crypto Projects,Decentraland (MANA),https://decentraland.org/
+Crypto Projects,Basic Attention Token (BAT),https://basicattentiontoken.org/
+Crypto Projects,0x (ZRX),https://0x.org/
+Crypto Projects,Kyber Network (KNC),https://kyber.network/
+Crypto Projects,Augur (REP),https://www.augur.net/
+Crypto Projects,Golem (GLM),https://golem.network/
+Crypto Projects,Bancor (BNT),https://www.bancor.network/
+Crypto Projects,Loopring (LRC),https://loopring.org/
+Crypto Projects,Ren (REN),https://renproject.io/
+Crypto Projects,Ocean Protocol (OCEAN),https://oceanprotocol.com/
+Crypto Projects,The Graph (GRT),https://thegraph.com/
+Crypto Projects,Avalanche (AVAX),https://www.avalabs.org/
+Crypto Projects,Filecoin (FIL),https://filecoin.io/
+Crypto Projects,Arweave (AR),https://www.arweave.org/
+Crypto Projects,Algorand (ALGO),https://www.algorand.com/
+Crypto Projects,Serum (SRM),https://projectserum.com/
+Crypto Projects,Terra (LUNA),https://terra.money/
+Crypto Projects,Curve Finance (CRV),https://www.curve.fi/
+Crypto Projects,Fantom (FTM),https://fantom.foundation/
+Crypto Projects,Kusama (KSM),https://kusama.network/
+Crypto Projects,Elrond (EGLD),https://elrond.com/
+Crypto Projects,Sora (XOR),https://sora.org/
+Crypto Projects,Celo (CELO),https://celo.org/
+Crypto Projects,Secret Network (SCRT),https://scrt.network/
+Crypto Projects,Thorchain (RUNE),https://thorchain.org/
+Crypto Projects,Holo (HOT),https://holochain.org/
+Crypto Projects,Nervos Network (CKB),https://www.nervos.org/
+Crypto Projects,OMG Network (OMG),https://omg.network/
+Crypto Projects,Energy Web Token (EWT),https://www.energyweb.org/
+Crypto Projects,Livepeer (LPT),https://livepeer.org/
+Crypto Projects,Storj (STORJ),https://www.storj.io/
+Crypto Projects,Orchid (OXT),https://www.orchid.com/
+Crypto Projects,RENBTC,https://renproject.io/
+Crypto Projects,Balancer (BAL),https://balancer.fi/
+Crypto Projects,1inch (1INCH),https://app.1inch.io/
+Crypto Projects,Curve DAO Token (CRV),https://www.curve.fi/
+Crypto Projects,Perpetual Protocol (PERP),https://perp.exchange/
+Automotive brands,Chevrolet,https://www.chevrolet.com/
+Automotive brands,BMW,https://www.bmw.com/
+Automotive brands,Mercedes-Benz,https://www.mercedes-benz.com/
+Automotive brands,Audi,https://www.audi.com/
+Automotive brands,Nissan,https://www.nissanusa.com/
+Automotive brands,Kia,https://www.kia.com/
+Automotive brands,Subaru,https://www.subaru.com/
+Automotive brands,Volvo,https://www.volvocars.com/
+Automotive brands,GMC,https://www.gmc.com/
+Automotive brands,Jeep,https://www.jeep.com/
+Automotive brands,Land Rover,https://www.landrover.com/
+Automotive brands,Lexus,https://www.lexus.com/
+Automotive brands,Porsche,https://www.porsche.com/
+Automotive brands,Maserati,https://www.maserati.com/
+Automotive brands,Ferrari,https://www.ferrari.com/
+Automotive brands,Lamborghini,https://www.lamborghini.com/
+Automotive brands,Aston Martin,https://www.astonmartin.com/
+Automotive brands,Bugatti,https://www.bugatti.com/
+Automotive brands,Rolls-Royce,https://www.rolls-roycemotorcars.com/
+Automotive brands,Bentley,https://www.bentleymotors.com/
+Automotive brands,McLaren,https://www.mclaren.com/
+Automotive brands,Alfa Romeo,https://www.alfaromeo.com/
+Automotive brands,Jaguar,https://www.jaguar.com/
+Automotive brands,Tesla,https://www.tesla.com/
+Automotive brands,Ram Trucks,https://www.ramtrucks.com/
+Automotive brands,Dodge,https://www.dodge.com/
+Automotive brands,Chrysler,https://www.chrysler.com/
+Automotive brands,Buick,https://www.buick.com/
+Automotive brands,Cadillac,https://www.cadillac.com/
+Automotive brands,Lincoln,https://www.lincoln.com/
+Automotive brands,Acura,https://www.acura.com/
+Automotive brands,Genesis,https://www.genesis.com/
+Automotive brands,Infiniti,https://www.infinitiusa.com/
+Automotive brands,Mazda,https://www.mazdausa.com/
+Automotive brands,Mitsubishi,https://www.mitsubishicars.com/
+Automotive brands,Mini,https://www.miniusa.com/
+Automotive brands,Lotus,https://www.lotuscars.com/
+Automotive brands,Citroën,https://www.citroen.com/
+Automotive brands,Dacia,https://www.dacia.com/
+Automotive brands,Fiat,https://www.fiatusa.com/
+Automotive brands,Peugeot,https://www.peugeot.com/
+Automotive brands,Renault,https://www.renault.com/
+Automotive brands,SEAT,https://www.seat.com/
+Automotive brands,Škoda,https://www.skoda-auto.com/
+Automotive brands,Smart,https://www.smart.com/
+Automotive brands,Vauxhall,https://www.vauxhall.co.uk/
