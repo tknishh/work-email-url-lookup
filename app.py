@@ -1,6 +1,8 @@
 import pandas as pd
 import requests
 import os
+import time
+from itertools import islice
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -32,12 +34,10 @@ api_key = os.environ.get('API_KEY')
 file_path = '../data/test.csv'
 df = read_csv_to_dataframe(file_path)
 
-# for domain in df['Website']:
-#     response = process_company_domain(domain)
-#     # Process the response as needed
-#     print(response.json())
-
-for url in df['LinkedIn Profile']:
+# Limit the iteration to 100 URLs every 15 minutes
+urls = islice(df['LinkedIn Profile'], 100)
+for url in urls:
     response = get_linkedin_profile_email(url)
     # Process the response as needed
     print(response.json())
+    time.sleep(900)  # Delay for 15 minutes (900 seconds)
